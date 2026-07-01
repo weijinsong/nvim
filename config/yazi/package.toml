@@ -1,21 +1,21 @@
 [[plugin.deps]]
 use = "yazi-rs/plugins:git"
-rev = "5d5c480"
+rev = "598cdb6"
 hash = "88e56a64b7ce7c4314427452343fef17"
 
 [[plugin.deps]]
 use = "yazi-rs/plugins:vcs-files"
-rev = "5d5c480"
+rev = "598cdb6"
 hash = "6b141fbed3c74b45558fbc7088c805ee"
 
 [[plugin.deps]]
 use = "yazi-rs/plugins:zoom"
-rev = "5d5c480"
+rev = "598cdb6"
 hash = "fa268cb59989a87780605fdcfb8d99a9"
 
 [[plugin.deps]]
 use = "yazi-rs/plugins:full-border"
-rev = "5d5c480"
+rev = "598cdb6"
 hash = "7b625412411be411153886894d9acaf"
 
 [[plugin.deps]]
@@ -30,15 +30,15 @@ hash = "722a60eca1b338c9c24bb508d2d48578"
 
 [[flavor.deps]]
 use = "yazi-rs/flavors:catppuccin-mocha"
-rev = "54ab389"
+rev = "0f9204b"
 hash = "7dfe41c9c3d9be76da8a844263d0bbed"
 
 [[flavor.deps]]
 use = "marcosvnmelo/kanagawa-dragon"
-rev = "b9541e8"
-hash = "dc840cf225dbf6f0257617403ad43d8b"
+rev = "b433f4a"
+hash = "b967c24a30350b1c5cd3a2ad5a7732e7"
 
 [[flavor.deps]]
 use = "kmlupreti/ayu-dark"
-rev = "1da67a8"
-hash = "4358d2053d15bd6855968e2d4646c744"
+rev = "00804da"
+hash = "d2ce8358c59ea6e8552091075b3a191c"

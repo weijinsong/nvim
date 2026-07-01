@@ -48,7 +48,7 @@ require('lazy').setup({
     { 'windwp/nvim-autopairs', event = 'InsertEnter', config = true, },
     { 'kylechui/nvim-surround', config = function() require('nvim-surround').setup({}) end},
     { 'lukas-reineke/virt-column.nvim', opts = {} },
-    { 'godlygeek/tabular', },
+    -- { 'godlygeek/tabular', },
     { 'BurntSushi/ripgrep', },
     { 'rcarriga/nvim-notify', },
     { 'stevearc/dressing.nvim', },
@@ -64,6 +64,8 @@ require('lazy').setup({
     require('plugins.snacks'),
     require('plugins.toggleterm'),
     require('plugins.gdb'),
+    require('plugins.align'),
+    require('plugins.git'),
 })
 
 -- 

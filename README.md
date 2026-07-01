@@ -31,10 +31,11 @@ config/
 git clone <repo-url> ~/.wjs_conf
 cd ~/.wjs_conf
 
-ln -s ~/.wjs_conf/config/nvim     ~/.config/nvim     # Neovim
-ln -s ~/.wjs_conf/config/tmux.conf ~/.tmux.conf       # tmux
-ln -s ~/.wjs_conf/config/yazi     ~/.config/yazi      # yazi
-ln -s ~/.wjs_conf/config/kitty    ~/.config/kitty     # kitty
+ln -s ~/.wjs_conf/config/nvim      ~/.config/nvim      # Neovim
+ln -s ~/.wjs_conf/config/neovide   ~/.config/neovide   # Neovim
+ln -s ~/.wjs_conf/config/tmux.conf ~/.tmux.conf        # tmux
+ln -s ~/.wjs_conf/config/yazi      ~/.config/yazi      # yazi
+ln -s ~/.wjs_conf/config/kitty     ~/.config/kitty     # kitty
 ```
 
 ## 各组件说明
